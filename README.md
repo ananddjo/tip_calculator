@@ -1,4 +1,4 @@
-tip_calculator
+Tip calculator
 ==============
 
 Tip Calculator for iOS
